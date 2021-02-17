@@ -1,3 +1,4 @@
-# run npm install
-
-# run npm run dev
+# Build node mods
+ `npm install`
+# run it
+`run npm run dev`
